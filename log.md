@@ -22,6 +22,14 @@
 
 **Thoughts**: I'm very optimistic about the journey of participating in this challenge. I believe it will help shape me into a well-rounded coder and hopefully full-time Front-end Engineer.
 
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 4: September 10, 2018 - Monday
+
+**Today's Progress**: Log progress here.
+
+**Thoughts**: Log thoughts here.
+
 **Link(s) to work**
 1. [Personal Portfolio](https://www.connorocampo.com/)
 
