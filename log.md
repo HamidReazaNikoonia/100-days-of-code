@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 7, 2018
+### Day 1: September 7, 2018 - Friday
 
 **Today's Progress**: Joined #100DaysOfCode Challenge
 
@@ -8,17 +8,17 @@
 
 **Link to work:** [freeCodeCamp Profile](https://www.freecodecamp.org/connorocampo)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: September 8, 2018 - Saturday
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Reworked For Loop modules in freeCodeCamp's Bosic JavaScript section of the JavaScript Algorithms and Data Structures certification curriculum.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Haven't hit a code wall this big to date. The logic in these concepts are difficult compared to learning HTML and CSS. Watching YouTube videos with explanations on these modules are helpful. Reading tweets about other people saying you're never really "stuck" if you keep going back to it and outting in the time to learn, so I'm doing just that until I get it right.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Link to Tweet](https://twitter.com/ConnorOcampo/status/1038633504693739520)
 
 
-### Day 1: June 27, Monday
+### Day 3: September 9, 2018 - Sunday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
