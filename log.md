@@ -18,12 +18,12 @@
 
 ### Day 3: September 9, 2018 - Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Did some updates to my personal online portfolio. Also, wrote a detailed S.M.A.R.T. plan for coding, health/fitness, blogging and networking goals. Today is the day I started logging #100DaysOfCode progress in GitHub. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I'm very optimistic about the journey of participating in this challenge. I believe it will help shape me into a well-rounded coder and hopefully full-time Front-end Engineer.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Personal Portfolio](https://www.connorocampo.com/)
+
 
 
