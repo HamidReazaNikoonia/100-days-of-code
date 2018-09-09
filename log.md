@@ -18,7 +18,7 @@
 
 ### Day 3: September 9, 2018 - Sunday
 
-**Today's Progress**: Did some updates to my personal online portfolio. Also, wrote a detailed S.M.A.R.T. plan for coding, health/fitness, blogging and networking goals. Today is the day I started logging #100DaysOfCode progress in GitHub. 
+**Today's Progress**: Did some updates to my personal online portfolio. Also, wrote a detailed S.M.A.R.T. plan for coding, health/fitness, blogging and networking goals. Today is the day I started logging #100DaysOfCode progress in this GitHub repo. 
 
 **Thoughts**: I'm very optimistic about the journey of participating in this challenge. I believe it will help shape me into a well-rounded coder and hopefully full-time Front-end Engineer.
 
