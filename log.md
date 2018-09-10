@@ -26,9 +26,9 @@
 
 ### Day 4: September 10, 2018 - Monday
 
-**Today's Progress**: Log progress here.
+**Today's Progress**: Finally got passed the Basic JavaScript section in freeCodeCamp and am making progress on the ES6 modules. I also finished up the "Why Joing #100DaysOfCoding" blog post on Medium. 
 
-**Thoughts**: Log thoughts here.
+**Thoughts**: Kind of hit a code wall while learning For Loop and working through the Record Collection and Profile Lookup modules. Will be circling back to these periodically until the logic behind each module is understood.
 
 **Link(s) to work**
 1. [Personal Portfolio](https://www.connorocampo.com/)
