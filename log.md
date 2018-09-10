@@ -40,7 +40,8 @@
 **Thoughts**: Write thoughts here.
 
 **Link(s) to work**
-1. [Personal Portfolio](https://www.connorocampo.com/)
+1. [Blog published on Medium](https://medium.com/@connorocampo/why-join-the-100daysofcode-challenge-7b9ce150e10c)
+2. 
 
 
 
