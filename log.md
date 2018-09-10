@@ -33,5 +33,14 @@
 **Link(s) to work**
 1. [Personal Portfolio](https://www.connorocampo.com/)
 
+### Day 5: September 11, 2018 - Tuesday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**
+1. [Personal Portfolio](https://www.connorocampo.com/)
+
 
 
