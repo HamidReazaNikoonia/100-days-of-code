@@ -30,8 +30,7 @@
 
 **Thoughts**: Kind of hit a code wall while learning For Loop and working through the Record Collection and Profile Lookup modules. Will be circling back to these periodically until the logic behind each module is understood.
 
-**Link(s) to work**
-1. [Blog published on Medium](https://medium.com/@connorocampo/why-join-the-100daysofcode-challenge-7b9ce150e10c)
+**Link(s) to work**: [Blog published on Medium](https://medium.com/@connorocampo/why-join-the-100daysofcode-challenge-7b9ce150e10c)
 
 ### Day 5: September 11, 2018 - Tuesday
 
