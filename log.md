@@ -35,9 +35,15 @@
 
 ### Day 5: September 11, 2018 - Tuesday
 
-**Today's Progress**: Write progress here.
+**Today's Progress**: Worked through the destructuring modules in ES6. Having a little trouble grasping the concept here so I;ve been reworking the modules. Also, made a GitHub repo to track my progress/code solutions as I work through freeCodeCamp.
 
-**Time logged:** Insert time logged.
+**Thoughts**: It's frustrating not being able to grasp a concept within a matter of minutes after reading the module description and example. I think this is usually the case for people brand new to coding. Just keeping my head down and working through it.
+
+**Link(s) to work**: [freeCodeCamp Solutions on GitHub](https://github.com/connorocampo/freeCodeCamp-solutions/tree/master/JavaScript-Algorithms-and-Data-Structures/ES6)
+
+### Day 6: September 12, 2018 - Tuesday
+
+**Today's Progress**: Write progress here.
 
 **Thoughts**: Write thoughts here.
 
