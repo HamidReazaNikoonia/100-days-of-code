@@ -40,13 +40,42 @@
 
 **Link(s) to work**: [freeCodeCamp Solutions on GitHub](https://github.com/connorocampo/freeCodeCamp-solutions/tree/master/JavaScript-Algorithms-and-Data-Structures/ES6)
 
-### Day 6: September 12, 2018 - Tuesday
+### Day 6: September 12, 2018 - Wednesday
 
 **Today's Progress**: Write progress here.
 
 **Thoughts**: Write thoughts here.
 
-**Link(s) to work**
-1. [Personal Portfolio](https://www.connorocampo.com/)
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
+### Day 7: September 13, 2018 - Thursday
 
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 8: September 14, 2018 - Friday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 9: September 15, 2018 - Saturday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 16, 2018 - Sunday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
