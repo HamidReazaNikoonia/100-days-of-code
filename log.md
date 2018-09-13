@@ -50,11 +50,11 @@
 
 ### Day 7: September 13, 2018 - Thursday
 
-**Today's Progress**: Write progress here.
+**Today's Progress**: Only completed 7 modules in the Regular Expressions section. Had a phone interview with 4Media but declined furthering the interview process because the position called for working exclusively in the adult entertainment industry. They mentioned the position was offering $55k max, but did not extend and offer because I declined the opportunity.
 
-**Thoughts**: Write thoughts here.
+**Thoughts**: Used most of the afternoon prepping for the phone interview. Felt great to get my feel wet interviewing for a front-end position. Unfortunately, I had to pass on the opportunity.
 
-**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+**Link(s) to work**: [Day 7 Tweet](https://twitter.com/ConnorOcampo/status/1040375135767801856)
 
 ### Day 8: September 14, 2018 - Friday
 
