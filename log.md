@@ -42,11 +42,11 @@
 
 ### Day 6: September 12, 2018 - Wednesday
 
-**Today's Progress**: Write progress here.
+**Today's Progress**: Finished the ES6 section of the JavaScript Algorithms and Data Structures section. Reviewed some earlier modules in the morning at jury duty (thank goodness I wasn't selected). Came back to my apartment, napped and afterwards, finished ES6.
 
-**Thoughts**: Write thoughts here.
+**Thoughts**: I didn't realize how fast I flew by ES6 until I looked at when I finished the Basic JavaScript section on this log and in my personal calendars.
 
-**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+**Link(s) to work**: [Day 6 Tweet](https://twitter.com/ConnorOcampo/status/1040050286038016000)
 
 ### Day 7: September 13, 2018 - Thursday
 
