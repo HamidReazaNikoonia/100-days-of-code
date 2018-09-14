@@ -58,11 +58,11 @@
 
 ### Day 8: September 14, 2018 - Friday
 
-**Today's Progress**: Write progress here.
+**Today's Progress**: Figured out how to rename a folder and transfer the files within that folder to the new renamed folder in GitHub. Will be doing a few modules in freeCodeCamp later tonight to complete my hour of code for the challenge.
 
-**Thoughts**: Write thoughts here.
+**Thoughts**: Was nice to work on something else code besides freeCodeCamp. Going to do my best to make more videos like this.
 
-**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+**Link(s) to work**: [YouTube Video](https://www.youtube.com/watch?v=Uq9swLzwGVs)
 
 ### Day 9: September 15, 2018 - Saturday
 
