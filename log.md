@@ -66,11 +66,11 @@
 
 ### Day 9: September 15, 2018 - Saturday
 
-**Today's Progress**: Write progress here.
+**Today's Progress**: Redid the Regular Expressions modules from the start for a refresher and finished a couple more modules after. Logged challenges into the freeCodeCamp solutions repository.
 
-**Thoughts**: Write thoughts here.
+**Thoughts**: Planning to be done with the rest of the Regular Expressions modules by tomorrow night - maybe will do some tonight. Today, I'm going to get some much needed sunshine!
 
-**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+**Link(s) to work**: [Tweet](https://twitter.com/ConnorOcampo/status/1041070409448415232)
 
 ### Day 10: September 16, 2018 - Sunday
 
