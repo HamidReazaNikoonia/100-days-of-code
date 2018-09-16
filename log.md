@@ -76,6 +76,118 @@
 
 ### Day 10: September 16, 2018 - Sunday
 
+**Today's Progress**: Finished the Regular Expressions section.
+
+**Thoughts**: Ahead of schedule to finish the JS and Data Structures Certification by a week. Really hustling to get this done and absorb/retain the information.
+
+**Link(s) to work**: [Tweet](https://twitter.com/ConnorOcampo/status/1041408957120737287)
+
+### Day 10: September 17, 2018 - Monday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 18, 2018 - Tuesday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 19, 2018 - Wednesday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 20, 2018 - Thursday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 21, 2018 - Friday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 22, 2018 - Saturday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 23, 2018 - Sunday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 24, 2018 - Monday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 25, 2018 - Tuesday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 26, 2018 - Wednesday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 27, 2018 - Thursday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 28, 2018 - Friday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 29, 2018 - Saturday
+
+**Today's Progress**: Write progress here.
+
+**Thoughts**: Write thoughts here.
+
+**Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
+
+### Day 10: September 30, 2018 - Sunday
+
 **Today's Progress**: Write progress here.
 
 **Thoughts**: Write thoughts here.
