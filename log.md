@@ -66,11 +66,13 @@
 
 ### Day 9: September 15, 2018 - Saturday
 
-**Today's Progress**: Redid the Regular Expressions modules from the start for a refresher and finished a couple more modules after. Logged challenges into the freeCodeCamp solutions repository.
+**Today's Progress**: Redid the Regular Expressions modules from the start for a refresher and finished a couple more modules after. Logged challenges into the freeCodeCamp solutions repository. Started a YouTube playlist series covering the whole Responsive Web Design certification curriculum.
 
 **Thoughts**: Planning to be done with the rest of the Regular Expressions modules by tomorrow night - maybe will do some tonight. Today, I'm going to get some much needed sunshine!
 
-**Link(s) to work**: [Tweet](https://twitter.com/ConnorOcampo/status/1041070409448415232)
+**Link(s) to work**:
+1. [Tweet](https://twitter.com/ConnorOcampo/status/1041070409448415232)
+2. [First YouTube playlist video](https://www.youtube.com/watch?v=epBCZvrG6Wc&t=)
 
 ### Day 10: September 16, 2018 - Sunday
 
