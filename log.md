@@ -82,7 +82,7 @@
 
 **Link(s) to work**: [Tweet](https://twitter.com/ConnorOcampo/status/1041408957120737287)
 
-### Day 10: September 17, 2018 - Monday
+### Day 11: September 17, 2018 - Monday
 
 **Today's Progress**: Write progress here.
 
@@ -90,7 +90,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 18, 2018 - Tuesday
+### Day 12: September 18, 2018 - Tuesday
 
 **Today's Progress**: Write progress here.
 
@@ -98,7 +98,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 19, 2018 - Wednesday
+### Day 13: September 19, 2018 - Wednesday
 
 **Today's Progress**: Write progress here.
 
@@ -106,7 +106,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 20, 2018 - Thursday
+### Day 14: September 20, 2018 - Thursday
 
 **Today's Progress**: Write progress here.
 
@@ -114,7 +114,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 21, 2018 - Friday
+### Day 15: September 21, 2018 - Friday
 
 **Today's Progress**: Write progress here.
 
@@ -122,7 +122,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 22, 2018 - Saturday
+### Day 16: September 22, 2018 - Saturday
 
 **Today's Progress**: Write progress here.
 
@@ -130,7 +130,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 23, 2018 - Sunday
+### Day 17: September 23, 2018 - Sunday
 
 **Today's Progress**: Write progress here.
 
@@ -138,7 +138,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 24, 2018 - Monday
+### Day 18: September 24, 2018 - Monday
 
 **Today's Progress**: Write progress here.
 
@@ -146,7 +146,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 25, 2018 - Tuesday
+### Day 19: September 25, 2018 - Tuesday
 
 **Today's Progress**: Write progress here.
 
@@ -154,7 +154,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 26, 2018 - Wednesday
+### Day 20: September 26, 2018 - Wednesday
 
 **Today's Progress**: Write progress here.
 
@@ -162,7 +162,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 27, 2018 - Thursday
+### Day 21: September 27, 2018 - Thursday
 
 **Today's Progress**: Write progress here.
 
@@ -170,7 +170,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 28, 2018 - Friday
+### Day 22: September 28, 2018 - Friday
 
 **Today's Progress**: Write progress here.
 
@@ -178,7 +178,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 29, 2018 - Saturday
+### Day 23: September 29, 2018 - Saturday
 
 **Today's Progress**: Write progress here.
 
@@ -186,7 +186,7 @@
 
 **Link(s) to work**: [Personal Portfolio](https://www.connorocampo.com/)
 
-### Day 10: September 30, 2018 - Sunday
+### Day 24: September 30, 2018 - Sunday
 
 **Today's Progress**: Write progress here.
 
